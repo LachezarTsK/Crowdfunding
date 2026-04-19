@@ -2,9 +2,9 @@
 
 To run the application, click on https://lachezartsk.github.io/Crowdfunding
 
-Information about can be found in file Project Summary.
+Information about the application can be found in file Project Summary.
 
-The simulated database with valid card details has four sample entries. In order for the donation to be successful, the entry for the card must be one of the following.
+The simulated database with valid card details has four sample entries.<br/>In order for the donation to be successful, the entry for the card must be one of the following.
 
 Valid Card Sample One:<br/>
 Number: "4242424242424242"<br/>
