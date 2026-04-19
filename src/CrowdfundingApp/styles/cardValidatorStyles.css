@@ -1,0 +1,56 @@
+.inputCardHolderName {
+  border: 5px solid green;
+  border-radius: 10px;
+  margin: 2px;
+  width: 229px;
+  padding: 2px;
+  text-align: center;
+}
+
+.inputCardDate {
+  border: 5px solid green;
+  border-radius: 10px;
+  margin: 2px;
+  width: 120px;
+  padding: 2px;
+  text-align: center;
+}
+
+.inputCardNumber {
+  border: 5px solid green;
+  border-radius: 10px;
+  margin: 2px;
+  width: 280px;
+  padding: 2px;
+  text-align: center;
+}
+
+.inputCardCVC {
+  border: 5px solid green;
+  border-radius: 10px;
+  margin: 2px;
+  width: 58px;
+  padding: 2px;
+  text-align: center;
+}
+
+.cardIcon {
+  width: 28px;
+  margin: 5px;
+}
+
+.cardIconForValidCardNumber {
+  width: 48px;
+  margin: 5px;
+}
+
+.invalidInputMessage {
+  height: 28px;
+  color: red;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
