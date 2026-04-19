@@ -40,7 +40,7 @@ cardNumberToCredentials.set("378282246310005", {
   cardHolderLastName: "Adams",
   cardType: "AmericanExpress",
   expiryDate: "12/29",
-  CVC: "6789",
+  CVC: "5678",
 });
 
 cardNumberToCredentials.set("5555555555554444", {
